@@ -1,0 +1,19 @@
+{
+  "description": "SlamDunk首发NFT",
+  "image": "https://apricot-narrow-reindeer-278.mypinata.cloud/ipfs/QmZPPvwXqgyZPVAKLGd6yuueoVBjsK5t1dauTQFXXePi7r",
+  "name": "巽#1 SlamDunk",
+  "attributes": [
+    {
+      "trait_type": "品质",
+      "value": "橙色"
+    },
+    {
+      "trait_type": "级别",
+      "value": "99级"
+    },
+    {
+      "trait_type": "五行",
+      "value": "木"
+    }
+  ]
+}

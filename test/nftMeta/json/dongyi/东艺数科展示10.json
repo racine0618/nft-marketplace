@@ -1,0 +1,19 @@
+{
+  "description": "东艺数科典藏 NFT",
+  "image": "https://apricot-narrow-reindeer-278.mypinata.cloud/ipfs/QmTeJ8C3H7oQuGgpZLWq3H2kkCYD1gj9jbV367ewZwHtxZ",
+  "name": "坤#1 太上台星",
+  "attributes": [
+    {
+      "trait_type": "品质",
+      "value": "橙色"
+    },
+    {
+      "trait_type": "级别",
+      "value": "99级"
+    },
+    {
+      "trait_type": "五行",
+      "value": "土"
+    }
+  ]
+}

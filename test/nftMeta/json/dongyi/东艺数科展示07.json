@@ -1,0 +1,19 @@
+{
+  "description": "东艺数科典藏 NFT",
+  "image": "https://apricot-narrow-reindeer-278.mypinata.cloud/ipfs/QmW8JqEvUJ28qkNzhGaWy5jgciMrsUTCqBTs5HhszWXhUD",
+  "name": "艮#1 天无氛秽",
+  "attributes": [
+    {
+      "trait_type": "品质",
+      "value": "橙色"
+    },
+    {
+      "trait_type": "级别",
+      "value": "99级"
+    },
+    {
+      "trait_type": "五行",
+      "value": "木"
+    }
+  ]
+}

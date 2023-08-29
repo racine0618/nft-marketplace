@@ -1,0 +1,181 @@
+[{
+  "description": "Fierce violet creature. Very durable and tanky.",
+  "image": "https://apricot-narrow-reindeer-278.mypinata.cloud/ipfs/QmW7UG6oSJ1FWZtQZs38KnSt6CVahFHFG5eACL8PKB7Qrd?_gl=1*d33xfk*_ga*MmRiYWQwZjMtMDgyZS00NTY3LWI1ZjMtYmJiZjQzZGM0Y2Rm*_ga_5RMPXG14TE*MTY4NzkxNzgyNy4yLjEuMTY4NzkxODA2OC41My4wLjA.",
+  "name": "Eincode Creature #1",
+  "attributes": [
+    {
+      "trait_type": "attack",
+      "value": "20"
+    },
+    {
+      "trait_type": "health",
+      "value": "100"
+    },
+    {
+      "trait_type": "speed",
+      "value": "30"
+    }
+  ]
+},{
+  "description": "Fierce violet creature. Very durable and tanky.",
+  "image": "https://apricot-narrow-reindeer-278.mypinata.cloud/ipfs/QmTeJ8C3H7oQuGgpZLWq3H2kkCYD1gj9jbV367ewZwHtxZ",
+  "name": "Eincode Creature #1",
+  "attributes": [
+    {
+      "trait_type": "attack",
+      "value": "20"
+    },
+    {
+      "trait_type": "health",
+      "value": "100"
+    },
+    {
+      "trait_type": "speed",
+      "value": "30"
+    }
+  ]
+},{
+  "description": "Fierce blueish creature. Avarage in attack and speed.",
+  "image": "https://apricot-narrow-reindeer-278.mypinata.cloud/ipfs/QmPKZkaLPV3GXDqvAjKniEyvnCmVL5Yjiz9zVH5Qpv4Aq7?_gl=1*1jnksyj*_ga*MmRiYWQwZjMtMDgyZS00NTY3LWI1ZjMtYmJiZjQzZGM0Y2Rm*_ga_5RMPXG14TE*MTY4NzkxNzgyNy4yLjEuMTY4NzkxODA2OC41My4wLjA.",
+  "name": "Eincode Creature #2",
+  "attributes": [
+    {
+      "trait_type": "attack",
+      "value": "40"
+    },
+    {
+      "trait_type": "health",
+      "value": "80"
+    },
+    {
+      "trait_type": "speed",
+      "value": "50"
+    }
+  ]
+},{
+  "description": "Fierce blueish creature. Avarage in attack and speed.",
+  "image": "https://apricot-narrow-reindeer-278.mypinata.cloud/ipfs/QmetDqk8eNfYPGobzxqMafXySnETFZEWJ8bYaAVainh8gR?_gl=1*1kz63o8*_ga*MmRiYWQwZjMtMDgyZS00NTY3LWI1ZjMtYmJiZjQzZGM0Y2Rm*_ga_5RMPXG14TE*MTY4NzkxNzgyNy4yLjEuMTY4NzkxODA2OC41My4wLjA.",
+  "name": "Eincode Creature #3",
+  "attributes": [
+    {
+      "trait_type": "attack",
+      "value": "40"
+    },
+    {
+      "trait_type": "health",
+      "value": "80"
+    },
+    {
+      "trait_type": "speed",
+      "value": "50"
+    }
+  ]
+},{
+  "description": "Fierce blueish creature. Avarage in attack and speed.",
+  "image": "https://apricot-narrow-reindeer-278.mypinata.cloud/ipfs/QmRrSvodeTXghXJH9AvxhkzPY8ZZQRCcUhHyoQWPkCekbq?_gl=1*a40clh*_ga*MmRiYWQwZjMtMDgyZS00NTY3LWI1ZjMtYmJiZjQzZGM0Y2Rm*_ga_5RMPXG14TE*MTY4NzkxNzgyNy4yLjEuMTY4NzkxODYyOC4zNC4wLjA.",
+  "name": "Eincode Creature #3",
+  "attributes": [
+    {
+      "trait_type": "attack",
+      "value": "40"
+    },
+    {
+      "trait_type": "health",
+      "value": "80"
+    },
+    {
+      "trait_type": "speed",
+      "value": "50"
+    }
+  ]
+},{
+  "description": "Fierce blueish creature. Avarage in attack and speed.",
+  "image": "https://apricot-narrow-reindeer-278.mypinata.cloud/ipfs/QmXojkssvUf8yxuBkVsjE9Ckj2AqpVu1nvwdtpgmmKdZw8?_gl=1*5nkurc*_ga*MmRiYWQwZjMtMDgyZS00NTY3LWI1ZjMtYmJiZjQzZGM0Y2Rm*_ga_5RMPXG14TE*MTY4NzkxNzgyNy4yLjEuMTY4NzkxODU1Ni4zMi4wLjA.",
+  "name": "Eincode Creature #3",
+  "attributes": [
+    {
+      "trait_type": "attack",
+      "value": "40"
+    },
+    {
+      "trait_type": "health",
+      "value": "80"
+    },
+    {
+      "trait_type": "speed",
+      "value": "50"
+    }
+  ]
+},{
+  "description": "Fierce blueish creature. Avarage in attack and speed.",
+  "image": "https://apricot-narrow-reindeer-278.mypinata.cloud/ipfs/QmeBH1yy9RtrSuHcNPAsVwxyhgiAukk4vMeWsUoxPkS3uS?_gl=1*zs87jr*_ga*MmRiYWQwZjMtMDgyZS00NTY3LWI1ZjMtYmJiZjQzZGM0Y2Rm*_ga_5RMPXG14TE*MTY4NzkxNzgyNy4yLjEuMTY4NzkxODUyOC42MC4wLjA.",
+  "name": "Eincode Creature #3",
+  "attributes": [
+    {
+      "trait_type": "attack",
+      "value": "40"
+    },
+    {
+      "trait_type": "health",
+      "value": "80"
+    },
+    {
+      "trait_type": "speed",
+      "value": "50"
+    }
+  ]
+},{
+  "description": "Fierce blueish creature. Avarage in attack and speed.",
+  "image": "https://apricot-narrow-reindeer-278.mypinata.cloud/ipfs/QmePUrrpfwtUeComWFtW1wMZpmZ6yYuEduJgQFoiSz217p?_gl=1*143qkas*_ga*MmRiYWQwZjMtMDgyZS00NTY3LWI1ZjMtYmJiZjQzZGM0Y2Rm*_ga_5RMPXG14TE*MTY4NzkxNzgyNy4yLjEuMTY4NzkxOTc3My42MC4wLjA.",
+  "name": "Eincode Creature #3",
+  "attributes": [
+    {
+      "trait_type": "attack",
+      "value": "40"
+    },
+    {
+      "trait_type": "health",
+      "value": "80"
+    },
+    {
+      "trait_type": "speed",
+      "value": "50"
+    }
+  ]
+},{
+  "description": "Fierce blueish creature. Avarage in attack and speed.",
+  "image": "https://apricot-narrow-reindeer-278.mypinata.cloud/ipfs/QmSCjq6xQpcPk9kb1gmds7x46mgsaRKkEL37YmvLh7JgUE?_gl=1*19irp1t*_ga*MmRiYWQwZjMtMDgyZS00NTY3LWI1ZjMtYmJiZjQzZGM0Y2Rm*_ga_5RMPXG14TE*MTY4NzkxNzgyNy4yLjEuMTY4NzkxODgwOS42MC4wLjA.",
+  "name": "Eincode Creature #3",
+  "attributes": [
+    {
+      "trait_type": "attack",
+      "value": "40"
+    },
+    {
+      "trait_type": "health",
+      "value": "80"
+    },
+    {
+      "trait_type": "speed",
+      "value": "50"
+    }
+  ]
+},{
+  "description": "Fierce blueish creature. Avarage in attack and speed.",
+  "image": "https://apricot-narrow-reindeer-278.mypinata.cloud/ipfs/QmYq6EY3rKrwCecTPo1SgBTJsTmB3WLmLS7j8BzEJoweqx?_gl=1*wxvm12*_ga*MmRiYWQwZjMtMDgyZS00NTY3LWI1ZjMtYmJiZjQzZGM0Y2Rm*_ga_5RMPXG14TE*MTY4NzkxNzgyNy4yLjEuMTY4NzkyMDE0MS42MC4wLjA.",
+  "name": "Eincode Creature #3",
+  "attributes": [
+    {
+      "trait_type": "attack",
+      "value": "40"
+    },
+    {
+      "trait_type": "health",
+      "value": "80"
+    },
+    {
+      "trait_type": "speed",
+      "value": "50"
+    }
+  ]
+}]
